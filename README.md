@@ -91,4 +91,7 @@ I'm always experimenting with new tools, improving my skills, and sharing my lea
 
 I'm interested in connecting with developers, data engineers, and technology enthusiasts who enjoy learning and building practical solutions.
 
+- 💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/manish-shrestha-4b3320139)
+- 💻 **GitHub:** [Explore my projects](https://github.com/Mr-sth)
+
 Thanks for visiting my profile! 🚀
