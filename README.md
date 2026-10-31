@@ -1,97 +1,123 @@
-# Hi there, I'm Manish Shrestha (Mr Sth)! 👋
+<h1 align="center">Hi, I'm Manish Shrestha 👋</h1>
 
-### Healthcare Data Professional | Oracle PL/SQL Developer | Aspiring Data Engineer
+<p align="center">
+  <b>Healthcare Data Professional | Oracle PL/SQL Developer | Aspiring Data Engineer</b><br>
+  4+ Years of Experience in US Healthcare Data · Python · SQL · AWS · Data Engineering
+</p>
 
-I'm a Software Engineer with **4+ years of professional experience** in the US healthcare data domain. My work primarily involves Oracle PL/SQL development, healthcare data processing, application support, and workflow automation.
-
-I enjoy solving real-world data problems, building efficient solutions, and exploring technologies that make data processing smarter and more scalable.
-
-Currently, I'm expanding my skills in **Python, AWS, PySpark, Databricks, and AI-driven automation**, with a long-term focus on Data Engineering.
+<p align="center">
+  <a href="https://www.linkedin.com/in/manish-shrestha-4b3320139/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Mr-sth">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧭 About Me
 
-- 💼 4+ years of experience in the US healthcare technology domain.
-- 🗄️ Experienced in Oracle SQL, PL/SQL, and database development.
-- 🐍 Exploring Python for data processing and automation.
-- ☁️ Learning AWS cloud services and architecture.
-- 📊 Interested in data analytics, business intelligence, and data engineering.
+- 💼 Software Engineer with **4+ years of professional experience** in the US healthcare technology domain.
+- 🏥 Experienced in healthcare data processing, database development, application support, and workflow automation.
+- 🗄️ Working with **Oracle SQL and PL/SQL** for database development and data-related solutions.
+- 🐍 Exploring Python to build data processing, automation, and intelligent applications.
+- ☁️ Learning AWS cloud services and cloud architecture.
+- 🎯 Working towards becoming a skilled Data Engineer by building practical projects and continuously learning.
 
 ## 🛠️ Tech Stack
 
-**Languages & Databases**
+**Database & Data Analysis**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Oracle_PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+</p>
 
-**Data Analytics & Engineering**
+**Python & Data Engineering**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+</p>
 
-**Cloud & Tools**
+**Cloud & AI**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
+</p>
 
----
+**Development Tools**
 
-## 🔭 Featured Projects & Current Focus
-
-### 1. Smart Data Ingestion & Mapping Tool
-- Developing a Python-based data ingestion and mapping solution.
-- Exploring intelligent column matching and automated data mapping.
-- Technologies: Python, Streamlit, Oracle, RapidFuzz.
-
-### 2. Data Engineering with PySpark
-- Learning distributed data processing.
-- Exploring data cleaning, transformation, and ETL workflows.
-- Technologies: Python, Apache Spark, PySpark.
-
----
-
-## 📚 Currently Learning
-
-- AWS Cloud & AWS Certifications
-- Python Programming & Automation
-- Data Engineering Fundamentals
-- Apache Spark & PySpark
-- Databricks
-- Machine Learning & AI Applications
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
+</p>
 
 ---
 
-## 💡 Areas of Interest
+## 📂 Featured Projects
 
-- Data Engineering
+| Project | Description | Technologies |
+|---|---|---|
+| [**PLSQL-Practice**](https://github.com/Mr-sth/PLSQL-Practice) | SQL and PL/SQL practice exercises | Oracle PL/SQL |
+| [**AWS**](https://github.com/Mr-sth/AWS) | AWS learning, practice, and certification preparation | AWS |
+
+---
+
+## 🌱 Currently Learning
+
+- ☁️ AWS Cloud & AWS Certified Cloud Practitioner (CLF-C02)
+- 🐍 Advanced Python programming and automation
+- ⚡ Apache Spark, PySpark, and Databricks
+- 🔄 Data pipelines, ETL, and data transformation
+- 🤖 Generative AI, LangChain, and Retrieval-Augmented Generation (RAG)
+- 📊 Machine Learning applications in healthcare analytics
+
+---
+
+## 🎯 Areas of Interest
+
+- Data Engineering & Data Pipelines
 - Healthcare Data Analytics
+- Cloud Computing & AWS
 - Artificial Intelligence & Machine Learning
-- Cloud Computing
-- ETL & Data Pipeline Development
-- Process Automation
+- Database Development & Optimization
+- Intelligent Process Automation
 
 ---
 
-## 📈 My Philosophy
+## 💡 My Philosophy
 
 > Learn continuously. Build practically. Solve real-world problems.
 
-I believe the best way to learn technology is by building something useful with it.
-
-I'm always experimenting with new tools, improving my skills, and sharing my learning journey through code.
+I believe the best way to learn technology is by applying it to real-world problems. I'm passionate about exploring new technologies, building useful solutions, and sharing my learning journey through code.
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
-I'm interested in connecting with developers, data engineers, and technology enthusiasts who enjoy learning and building practical solutions.
+I'm always interested in connecting with developers, data engineers, and technology enthusiasts.
 
-- 💼 **LinkedIn:** [Manish Shrestha](https://www.linkedin.com/in/manish-shrestha-4b3320139/)
-- 💻 **GitHub:** [Mr-sth](https://github.com/Mr-sth)
+<p>
+  <a href="https://www.linkedin.com/in/manish-shrestha-4b3320139/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/Mr-sth">
+    <img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-Thanks for visiting my profile! 🚀
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mr-sth&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+</p>
