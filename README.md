@@ -66,14 +66,14 @@
 
 ---
 
-## 📂 Featured Projects
-
-| Project | Description | Technologies |
+## 📂 Featured projects
+ 
+| Project | What it is | Stack |
 |---|---|---|
-| [**PLSQL-Practice**](https://github.com/Mr-sth/PLSQL-Practice) | SQL and PL/SQL practice exercises | Oracle PL/SQL |
-| [**AWS**](https://github.com/Mr-sth/AWS) | AWS learning, practice, and certification preparation | AWS |
-
----
+| [**Azure_Project**](https://github.com/Mr-sth/Azure_Project) | Group project on Azure | Python, Azure |
+| [**My-RAG-Tutorials-Reference**](https://github.com/Mr-sth/My-RAG-Tutorials-Reference) | RAG notebooks I'm working through (fork) | Jupyter, RAG |
+| [**PLSQL-Practice**](https://github.com/Mr-sth/PLSQL-Practice) | PL/SQL exercises and queries | Oracle PL/SQL |
+| [**AWS**](https://github.com/Mr-sth/AWS) | AWS practice and study notes | AWS |
 
 ## 🌱 Currently Learning
 
